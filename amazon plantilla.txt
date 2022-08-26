@@ -1,0 +1,98 @@
+<h1 style="text-align: center;">&nbsp;<u>UNETE A LA COMUNIDAD DIGITAL!</u></h1>
+<div class="separator" style="clear: both; text-align: center;"><br /></div>
+<h4 style="text-align: center;">
+  Ven y se parte de las cientos de miles de personas que han confiado en las
+  plataformas digitales de comercio electrónico.
+</h4>
+<h3 style="text-align: center;"><span style="color: red;"><u style="background-color: #fcff01;">AHORA TODO ES DIGITAL</u></span></h3>
+<h4 style="text-align: center;">Aquí encontraras todos tus productos</h4>
+<h3 style="text-align: center;"><span style="color: red;">NO BUSQUES MAS!</span></h3>
+<div><br /></div>
+
+<!--4/4-->
+<center>
+  <div class="pgrid row">
+    <div class="col-4-smamazon">
+      <a href="https://www.amazon.com.mx/Xiaomi-REDMI-Note-128GB-Gris/dp/B09TG95TL2/ref=zg_bs_9687422011_sccl_4/131-4251794-9513463?pd_rd_i=B09TG95TL2&psc=1" rel="nofollow" target="_blank"><img class="image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_RudE81J9Jsj1bK8ig2EOuVkzG3yFc_hcdb45mAzcKB3CUiSueCnZIbCBzeTAB9K3h3_A4dt2FJyn1jFHPA8rEn0gABSEotfC6ASv6on9xIR1mDPntOoqoYvaJ-T_Oz4cLiIW-sG2KwXRg7mX71cpAa48WU4ODeTFqC-UAHOTChh8PjA6P4f1QQNt/s450/NOTE11%20XIAOMI.jpg" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">Xiaomi REDMI Note 11 (128GB, Gris)</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+    
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+
+
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+    
+    
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+  </div>
+</center>
+<br />
+<!--4/4-->
+<center>
+  <div class="pgrid row">
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+    
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+
+
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+    
+    
+    <div class="col-4-smamazon">
+      <a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><img class="image" src="URL DE LA IMAGENEN DEL PRODUCTO" /> </a>
+      <br /><br />
+      <h3><a href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO DE AMAZON</a></h3>
+      <a class="btnamazon" href="URL DEL PRODUCTO DE AMAZON" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+    </div>
+  </div>
+</center>
+<br />
+
+<div class="amazon-pro">
+ <div class="amazon-col-1">
+   <img alt="TEXTO ALTERNATIVO" src="URL DE LA IMAGEN DEL PRODUCTO" title="TITULO DE LA IMAGEN"/>
+ </div>
+ <div class="amazon-col-2">
+   <h3><a href="https://URL DEL PRODUCTO" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO</a></h3>
+   <ul class="lista-pro">
+     <li>➤CARACTERISTICA NUMERO 1 DEL PRODUCTO</li>
+     <li>➤CARACTERISTICA NUMERO 2 DEL PRODUCTO</li>
+     <li>➤CARACTERISTICA NUMERO 3 DEL PRODUCTO</li>
+     <li>➤CARACTERISTICA NUMERO 4 DEL PRODUCTO</li>
+   </ul>
+  <a class="btnamazon" href="https://URL DEL PRODUCTO" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+ </div>
+</div>
+<br />
