@@ -1,0 +1,16 @@
+<div class="amazon-pro">
+ <div class="amazon-col-1">
+   <img alt="TEXTO ALTERNATIVO" src="URL DE LA IMAGEN DEL PRODUCTO" title="TITULO DE LA IMAGEN"/>
+ </div>
+ <div class="amazon-col-2">
+   <h3><a href="https://URL DEL PRODUCTO" rel="nofollow" target="_blank">NOMBRE DEL PRODUCTO</a></h3>
+   <ul class="lista-pro">
+     <li>➤CARACTERISTICA NUMERO 1 DEL PRODUCTO</li>
+     <li>➤CARACTERISTICA NUMERO 2 DEL PRODUCTO</li>
+     <li>➤CARACTERISTICA NUMERO 3 DEL PRODUCTO</li>
+     <li>➤CARACTERISTICA NUMERO 4 DEL PRODUCTO</li>
+   </ul>
+  <a class="btnamazon" href="https://URL DEL PRODUCTO" rel="nofollow" target="_blank"><i class="fas fa-shopping-cart"></i>   ver en amazon</a>
+ </div>
+</div>
+<br /> 
