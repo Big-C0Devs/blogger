@@ -1,0 +1,24 @@
+<!--3/3-->
+<center>
+  <div class="pgrid row">
+    <div class="col-4-sm">
+      <a href="https://URL DEL ARTICULO"><img src="https://URL DE LA IMAGEN .JPG" class="image" /> </a>
+      <br /><br />
+      <h3><a href="https://URL DEL ARTICULO">TITULO DEL ARTICULO</a></h3>
+    </div>
+    
+    <div class="col-4-sm">
+      <a href="https://URL DEL ARTICULO"><img src="https://URL DE LA IMAGEN .JPG" class="image" /> </a>
+      <br /><br />
+      <h3><a href="https://URL DEL ARTICULO">TITULO DEL ARTICULO</a></h3>
+    </div>
+   
+    <div class="col-4-sm">
+      <a href="https://URL DEL ARTICULO"><img src="https://URL DE LA IMAGEN .JPG" class="image" /> </a>
+      <br /><br />
+      <h3><a href="https://URL DEL ARTICULO">TITULO DEL ARTICULO</a></h3>
+    </div>
+  </div>
+</center>
+<br />  
+    
